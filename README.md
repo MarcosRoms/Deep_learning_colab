@@ -3,6 +3,11 @@
 Este repositorio contiene diversas prácticas realizadas durante el Diplomado de Ciencia de datos e Inteligencia Artificial en la Agricultura I. Cada práctica aborda un tema específico y utiliza diferentes técnicas y herramientas para la implementación de modelos de aprendizaje automático y procesamiento de imágenes.
 
 **Nota:** Los datos utilizados en estas prácticas se tomaron de Google Drive y no se subieron a este repositorio. Estos fueron facilitados por los instructores para el uso durante las practicas del diplomado. Para mas informacion favor de establecer contacto:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4f5957f8-7e5c-4aab-a4cd-dfe58fa5878e" alt="image">
+</p>
+
+
 
 ## Contenido del Repositorio
 
@@ -89,5 +94,10 @@ Queremos expresar nuestro más sincero agradecimiento a todas las personas y ent
 - **Centro de Educación Continua:** Gracias al Centro de Educación Continua por proporcionar los recursos y la infraestructura necesarios para llevar a cabo este diplomado. Su compromiso con la educación continua ha sido clave para nuestro éxito.
 
 - **Universidad Autónoma Chapingo:** Agradecemos a la Universidad Autónoma Chapingo por ofrecer este diplomado y por su continuo esfuerzo en promover la educación y la investigación en el campo de la inteligencia artificial y la agricultura. Su visión y apoyo han sido esenciales para el correcto desarrollo de este programa.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65528859-4582-4d73-b58c-4d987c2d525b" alt="image">
+</p>
+
 
 ¡Gracias a todos por hacer de este diplomado una experiencia enriquecedora y valiosa!
